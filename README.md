@@ -1,5 +1,7 @@
 # Team Gold Mobile (Quiz App)
 
+We are now managing this project from here: https://dev.azure.com/DevSecOpsSandbox/Parallex/_boards
+
 ## To get started:
 
 - Fork the repository at the top right corner
